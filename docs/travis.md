@@ -69,7 +69,7 @@ after_success:
 As you can see above, you need to set up:
 
 - `GIT_NAME` and `GIT_EMAIL`
-- `GH_REF` is the GitHUb repository URL
+- `GH_REF` is the GitHub repository URL
 - `composer install` is necessary to install Couscous
 - `vendor/bin/couscous travis-auto-deploy`
 
